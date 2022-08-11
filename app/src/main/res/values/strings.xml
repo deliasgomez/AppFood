@@ -6,5 +6,6 @@
     <string name="what_would_you_like_to_eat">What would you like to eat</string>
     <string name="over_popular_items">Over popular items</string>
     <string name="category">Categories</string>
+    <string name="category_name">category name</string>
 
 </resources>
